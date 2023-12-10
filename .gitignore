@@ -1,0 +1,12 @@
+.vscode/
+.cache
+.ccls*
+.cmake
+CMakeFiles
+Makefile
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+build/
+face/
+*.db
